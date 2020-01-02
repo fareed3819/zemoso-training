@@ -1,1 +1,2 @@
 # zemoso-training
+zemso assignment
